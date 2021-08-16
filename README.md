@@ -3,7 +3,7 @@
 
 ###  :open_book:  Sobre o projeto
 
-O projeto site pizzaria, foi desenvolvido para colocar em prática os conhecimentos obtidos através de cursos.
+ O projeto site pizzaria, foi desenvolvido para colocar em prática os conhecimentos obtidos através de cursos.
 
 
 ### Layout mobile :iphone:
